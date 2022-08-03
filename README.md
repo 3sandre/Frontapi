@@ -23,9 +23,11 @@ This includes actions related to data collection, processing and retrieval under
 
 `id=[integer]`
 
- ### `Tools used to build the API :`
+ ### `Tools used to build the React app :`
 
 ####  - NodeJS
+####  - Reactjs
+####  - Expressjs
 
  ####  - Express.js – Fast, unopinionated, minimalist web framework for [Node js](https://nodejs.org/en/)
  
